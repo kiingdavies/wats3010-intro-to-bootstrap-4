@@ -31,3 +31,8 @@ div .hover {
 #two :hover {
   background-color: gray;
 }
+
+.container .active {
+  background-color: #ffbf00;
+  color: black;
+}
